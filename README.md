@@ -121,7 +121,7 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 - Bert Model (Pretained : bert_en_uncased_L-24_H-1024_A-16)
 - Tokennizer Bangla Bert Tokenizer `bnbert_tokenizer = AutoTokenizer.from_pretrained("sagorsarker/bangla-bert-base")`
 
-##### Model Summary: 
+##### Model 1 Summary: 
 <img src="https://drive.google.com/uc?export=view&id=1aKtMooWqJh80aWaAGYIeLGJVjexwLEoq" alt="load again" width="700" height="350"/> 
 <hr>
 
@@ -129,8 +129,15 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 - One LSTM Layer with Embedding Layer 
 - Use Glove pretrained corpus model to represent words
 
-##### Model Summary: 
+##### Model 2 Summary: 
 <img src="https://drive.google.com/uc?export=view&id=1tDswvoc9S-Ud4A5l3Rzmr4NMmelhxXf3" alt="load again" width="700" height="350"/> 
+
+##### Model 3:
+- Multi LSTM Layer & 1D CNN with Embedding Layer 
+- Use Glove pretrained corpus model to represent words
+
+##### Model 3 Summary: 
+<img src="https://drive.google.com/uc?export=view&id=1H0vFeBzaDehO5jmQYjzUXvuiyuG_gpF-" alt="load again" width="700" height="350"/> 
 
 ### Model Evaluation
 #### Bert
