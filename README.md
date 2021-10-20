@@ -100,6 +100,11 @@
 #### Bigram Analysis: 
 <img src="https://drive.google.com/uc?export=view&id=1StcYQYUbJ60MJSGrVqQ239vmQ1Ho9q9S" width="700" height="350"/> 
 
+**EDA 
+
 
 ### Cleaning of Dataset
 As analysis found some stop words in cleanText columns. Removed those stop words using `from bnlp.corpus.util import remove_stopwords`.
+
+### Model Development
+
