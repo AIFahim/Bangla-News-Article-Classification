@@ -122,7 +122,7 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 
 ##### Model 2:
 - One LSTM Layer with Embedding Layer 
-- Tokennizer Bangla Bert Tokenizer `bnbert_tokenizer = AutoTokenizer.from_pretrained("sagorsarker/bangla-bert-base")`
+- Use Glove pretrained corpus model to represent words
 
 ##### Model Summary: 
-<img src="https://drive.google.com/uc?export=view&id=1aKtMooWqJh80aWaAGYIeLGJVjexwLEoq" width="700" height="350"/> 
+<img src="https://drive.google.com/uc?export=view&id=1tDswvoc9S-Ud4A5l3Rzmr4NMmelhxXf3" width="700" height="350"/> 
