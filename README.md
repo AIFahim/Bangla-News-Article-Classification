@@ -29,31 +29,31 @@
 - A publicly available dataset [BanglaMCT7: Bangla Multi-Class Text Dataset 7 Tags](https://www.kaggle.com/gakowsher/banglamct7-bangla-multiclass-text-dataset-7-tags) which contains news articles of 7 different classes.      
 
 ### Class Distribution of Dataset :
-<img src="https://drive.google.com/uc?export=view&id=1YGqUJQOd_4t1V0DYiYSkqL5-5yGgrnWb" width="530" height="350"/>
+<img src="https://drive.google.com/uc?export=view&id=1YGqUJQOd_4t1V0DYiYSkqL5-5yGgrnWb" alt="load again" width="530" height="350"/>
 
 ### EDA of Dataset
 #### Number of words in each classes : 
 
-<img src="https://drive.google.com/uc?export=view&id=1sTrp48nsphSGo3ujjFJexeQJHSwA_sJX" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1YVP5v0XyqU85LkSgqR_rZNKBRql9JIdb" width="700" height="350"/> |
+<img src="https://drive.google.com/uc?export=view&id=1sTrp48nsphSGo3ujjFJexeQJHSwA_sJX" alt="load again" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1YVP5v0XyqU85LkSgqR_rZNKBRql9JIdb" alt="load again" width="700" height="350"/> |
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=1eSZv2MhBVHPQkGiseEgOPiqHy2JDHwlW" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1x2k5vMLv63q0Wbos7eFGsw-xyiZF4N5X" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=1eSZv2MhBVHPQkGiseEgOPiqHy2JDHwlW" alt="load again" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1x2k5vMLv63q0Wbos7eFGsw-xyiZF4N5X" alt="load again" width="700" height="350"/> | 
 
 
-<img src="https://drive.google.com/uc?export=view&id=11RP1uhd_2EHIDAoGg_WiREQIGRfl44YA" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1i-i5-1H_yiP2wZuQV3okcESsQT5ij_aY" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=11RP1uhd_2EHIDAoGg_WiREQIGRfl44YA" alt="load again" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1i-i5-1H_yiP2wZuQV3okcESsQT5ij_aY" alt="load again" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=1VvKm_jwovJdzhBJnsHDntSHJ6E6N0JMp" width="700" height="350"/> | | 
+<img src="https://drive.google.com/uc?export=view&id=1VvKm_jwovJdzhBJnsHDntSHJ6E6N0JMp" alt="load again" width="700" height="350"/> | | 
 
 
 #### Number of character in each classes : 
 
-<img src="https://drive.google.com/uc?export=view&id=1UWaHTXbb9ZZ8cqSY-ZJ9HnFOySjDgZg2" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1jW7qYq3Z1qsV-wtmOg6luE406zvJZ0gF" width="700" height="350"/> |
+<img src="https://drive.google.com/uc?export=view&id=1UWaHTXbb9ZZ8cqSY-ZJ9HnFOySjDgZg2" alt="load again" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1jW7qYq3Z1qsV-wtmOg6luE406zvJZ0gF" alt="load again" width="700" height="350"/> |
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=1d6W7iTYwOF5oTjfWEVkqKGVk8KoQ5NS4" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=15moPm50C-EyQhiaOsHRwr-lReMW8m61s" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=1d6W7iTYwOF5oTjfWEVkqKGVk8KoQ5NS4" alt="load again" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=15moPm50C-EyQhiaOsHRwr-lReMW8m61s" alt="load again" width="700" height="350"/> | 
 
 
-<img src="https://drive.google.com/uc?export=view&id=1XTzv5oPpVgHGOkrFUgTvYfww8g_sIhhZ" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=13nbh_gI7xjaPby37JibIkZLSZ0sNDtew" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=1XTzv5oPpVgHGOkrFUgTvYfww8g_sIhhZ" alt="load again" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=13nbh_gI7xjaPby37JibIkZLSZ0sNDtew" alt="load again" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=1ymFUMttwyo1L_UUDDDf8lo3LUsw6wk22" width="700" height="350"/> | | 
+<img src="https://drive.google.com/uc?export=view&id=1ymFUMttwyo1L_UUDDDf8lo3LUsw6wk22" alt="load again" width="700" height="350"/> | | 
 
 
 
