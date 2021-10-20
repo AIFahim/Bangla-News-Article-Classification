@@ -107,6 +107,7 @@
 As analysis found some stop words in cleanText columns. Removed those stop words using `from bnlp.corpus.util import remove_stopwords`.
 
 ### Model Development
+##### Model 1:
 - Bert Model (Pretained : bert_en_uncased_L-24_H-1024_A-16)
 - Tokennizer Bangla Bert Tokenizer `bnbert_tokenizer = AutoTokenizer.from_pretrained("sagorsarker/bangla-bert-base")`
 
