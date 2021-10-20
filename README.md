@@ -128,3 +128,8 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 
 ##### Model Summary: 
 <img src="https://drive.google.com/uc?export=view&id=1tDswvoc9S-Ud4A5l3Rzmr4NMmelhxXf3" width="700" height="350"/> 
+
+### Model Evaluation
+#### Bert
+<img src="https://drive.google.com/uc?export=view&id=1laykz7ZLvPwB5vy3wt-g16jmcHNPBeWQ" width="700" height="350"/> 
+<img src="https://drive.google.com/uc?export=view&id=17oSgrPnOTttdxlVZY1sVD5Rr9jUMQSbg" width="700" height="350"/> 
