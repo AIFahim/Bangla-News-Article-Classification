@@ -110,5 +110,5 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 - Bert Model (Pretained : bert_en_uncased_L-24_H-1024_A-16)
 - Tokennizer Bangla Bert Tokenizer `bnbert_tokenizer = AutoTokenizer.from_pretrained("sagorsarker/bangla-bert-base")`
 
-Model Summary: 
+##### Model Summary: 
 <img src="https://drive.google.com/uc?export=view&id=1aKtMooWqJh80aWaAGYIeLGJVjexwLEoq" width="700" height="350"/> 
