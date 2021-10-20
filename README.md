@@ -45,3 +45,16 @@
 <img src="https://drive.google.com/uc?export=view&id=1XTzv5oPpVgHGOkrFUgTvYfww8g_sIhhZ" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=13nbh_gI7xjaPby37JibIkZLSZ0sNDtew" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
 <img src="https://drive.google.com/uc?export=view&id=1ymFUMttwyo1L_UUDDDf8lo3LUsw6wk22" width="700" height="350"/> | | 
+
+
+
+#### Number of character in each classes : 
+
+<img src="https://drive.google.com/uc?export=view&id=1U802FZoTb4Ak1UgiNIXflFEfkqbFlgqE" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1e2j_pEfUPbioyKeE56Ml9t3bRuHD0l36" width="700" height="350"/> |
+:-------------------------:|:-------------------------:
+<img src="https://drive.google.com/uc?export=view&id=1u5z0S1LzeC4KOEEX2SSK8BLvdkrfdIwY" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1T7GHoURdz9tt5ODBjw0KOrbRHYNB19Nv" width="700" height="350"/> | 
+
+
+<img src="https://drive.google.com/uc?export=view&id=1OXXVKTHddxmhTTkQS3YDZ5uRXav5YPs8" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1n2vhcZeYVqwNIW6CgNEpVB8u-T3zYW0M" width="700" height="350"/> | 
+:-------------------------:|:-------------------------:
+<img src="https://drive.google.com/uc?export=view&id=11ufrSKxgL5NKhWQfUS-m-7eviBUGSp_5" width="700" height="350"/> | | 
