@@ -33,3 +33,15 @@
 <img src="https://drive.google.com/uc?export=view&id=11RP1uhd_2EHIDAoGg_WiREQIGRfl44YA" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1i-i5-1H_yiP2wZuQV3okcESsQT5ij_aY" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
 <img src="https://drive.google.com/uc?export=view&id=1VvKm_jwovJdzhBJnsHDntSHJ6E6N0JMp" width="700" height="350"/> | | 
+
+
+#### Number of character in each classes : 
+
+<img src="https://drive.google.com/uc?export=view&id=1UWaHTXbb9ZZ8cqSY-ZJ9HnFOySjDgZg2" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1jW7qYq3Z1qsV-wtmOg6luE406zvJZ0gF" width="700" height="350"/> |
+:-------------------------:|:-------------------------:
+<img src="https://drive.google.com/uc?export=view&id=1d6W7iTYwOF5oTjfWEVkqKGVk8KoQ5NS4" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=15moPm50C-EyQhiaOsHRwr-lReMW8m61s" width="700" height="350"/> | 
+
+
+<img src="https://drive.google.com/uc?export=view&id=1XTzv5oPpVgHGOkrFUgTvYfww8g_sIhhZ" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=13nbh_gI7xjaPby37JibIkZLSZ0sNDtew" width="700" height="350"/> | 
+:-------------------------:|:-------------------------:
+<img src="https://drive.google.com/uc?export=view&id=1ymFUMttwyo1L_UUDDDf8lo3LUsw6wk22" width="700" height="350"/> | | 
