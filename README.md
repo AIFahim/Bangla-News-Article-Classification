@@ -14,13 +14,15 @@
 - [EDA & Data Cleaning](https://colab.research.google.com/drive/1jIrsJulLduJgHWqBf2XjneG9o3NhEjrS?usp=sharing)
 - [Bert Training Code](https://colab.research.google.com/drive/17tQ9DQvFB8sTXfHQfmD_ivf1TTovdIXl?usp=sharing)
 - [Glove Single LSTM Training Code](https://colab.research.google.com/drive/1mv24jJccO4RKwel6EsOOsFusM-AV8r_-?usp=sharing)
+- [Glove Model Multiple LSTM CNN Training Code](https://colab.research.google.com/drive/13c3noRsExOFHzv1DrtBxMhoqk6AR4yx9?usp=sharing)
 - [Evaluation of Bert](https://colab.research.google.com/drive/1nmjIQcgrg09XI8_QxXCG6SGVsF8IoMTv?usp=sharing)
 - [Evaluation of Glove Single LSTM](https://colab.research.google.com/drive/1darPESwq1pQ8SL_HwlpDMfqHZjlMc82Q?usp=sharing)
-
+- [Evaluation of Glove Model Multiple LSTM CNN](https://colab.research.google.com/drive/146Ddldkd0-iqM1lobLHhwyBJ4xPNTztC?usp=sharing)
 
 ### Trained Model Weight Files
 - [Bert Model](https://drive.google.com/file/d/1-5Y29UkrhBKVT1ICM0GFqBk_bTwxjDGD/view?usp=sharing)
 - [Glove Single LSTM](https://drive.google.com/file/d/1-5Y29UkrhBKVT1ICM0GFqBk_bTwxjDGD/view?usp=sharing)
+- [Glove Model Multiple LSTM CNN](https://drive.google.com/file/d/1Eglkzg5na5i6C7Derq1tz-lEcuebNLPe/view?usp=sharing)
 
 ### Resources Used
 - **Developement Envioronment :** Google Colab
@@ -148,6 +150,6 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 <img src="https://drive.google.com/uc?export=view&id=1laykz7ZLvPwB5vy3wt-g16jmcHNPBeWQ" alt="load again" width="700" height="350"/> | <img src="https://drive.google.com/uc?export=view&id=17oSgrPnOTttdxlVZY1sVD5Rr9jUMQSbg" alt="load again" width="700" height="350"/> 
 :-------------------------:|:-------------------------:
 
-
-### Model Comparision 
- **Bert Model Perform very well but LSTM Architecture not perform well** 
+#### Glove Multiple LSTM CNN
+<img src="https://drive.google.com/uc?export=view&id=1LcRIBPTTDTnk91im4VakCRnuLm_zIuJm" alt="load again" width="700" height="350"/> | <img src="https://drive.google.com/uc?export=view&id=1NBriTudS_aTi6upUp9k9xEOCvAJoKFar" alt="load again" width="700" height="350"/> 
+:-------------------------:|:-------------------------:
