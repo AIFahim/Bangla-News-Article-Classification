@@ -70,14 +70,16 @@
 
 #### Common Words in each classes: 
 <img src="https://drive.google.com/uc?export=view&id=1FlwiUzcIIqUbypJ2ROCu_bWIiCLXlTZG" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1lImrxqfmLLVOmbzfzBjpPnAxTyUMWZWR" width="700" height="350"/> |
+
 :-------------------------:|:-------------------------:
 
 <img src="https://drive.google.com/uc?export=view&id=1cu8ft1Z-FhQqb7NhRKeGkXjAIrggCfXW" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1c_QcXoW2KvME1TEXYubaeQ_KNGXlUIIh" width="700" height="350"/> |
 
+
 <img src="https://drive.google.com/uc?export=view&id=1kDCnN9kNgAAMVUk6wSHQwUU-nHt4VQNx" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1eYUQhHLpa-qEQPidtwgBFteIOA7j96gI" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
 
-<img src="https://drive.google.com/uc?export=view&id=1i7HLEGqTYFI53eAOn6ykjgdpkHH1qcKW" width="700" height="350"/> |  | 
+<img src="https://drive.google.com/uc?export=view&id=1i7HLEGqTYFI53eAOn6ykjgdpkHH1qcKW" width="700" height="350"/> | | 
 
 
 
