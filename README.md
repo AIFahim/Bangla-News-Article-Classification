@@ -77,6 +77,7 @@
 
 #### Analyze punction : 
 <img src="https://drive.google.com/uc?export=view&id=120GJnUV6BkELzYBeU62Jgg9ecL0XqM2z" width="700" height="350"/>
+
 **Found punction in text column but didn't found any punction in cleanText column**
 
 
