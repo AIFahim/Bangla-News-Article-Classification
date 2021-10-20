@@ -19,11 +19,6 @@
 ### Dataset: 
 - A publicly available dataset [BanglaMCT7: Bangla Multi-Class Text Dataset 7 Tags](https://www.kaggle.com/gakowsher/banglamct7-bangla-multiclass-text-dataset-7-tags) which contains news articles of 7 different classes.      
 
-### Class Distribution of Dataset
+### Class Distribution of Dataset :
 <img src="https://drive.google.com/uc?export=view&id=1YGqUJQOd_4t1V0DYiYSkqL5-5yGgrnWb" width="530" height="350"/>
 
-## Project Outline 
-- Data Preparation
-- Data Summary
-- Model Development
-- Model Evaluation
