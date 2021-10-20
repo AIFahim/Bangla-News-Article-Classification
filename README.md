@@ -12,6 +12,7 @@
 
 ### Solution Notebooks: 
 - [Evaluation of Bert](https://colab.research.google.com/drive/1nmjIQcgrg09XI8_QxXCG6SGVsF8IoMTv?usp=sharing)
+- [Evaluation of Glove Single LSTM](https://colab.research.google.com/drive/1darPESwq1pQ8SL_HwlpDMfqHZjlMc82Q?usp=sharing)
 - [Bert Training Code](https://colab.research.google.com/drive/17tQ9DQvFB8sTXfHQfmD_ivf1TTovdIXl?usp=sharing)
 
 ### Trained Model Weight Files
