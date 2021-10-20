@@ -64,3 +64,13 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1EFFj020iRKhh8maLPMV76DURnBnVfKFE" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1_Guj651hAhXkCpU9i1mhdnjf10mcgAKz" width="700" height="350"/> |
 :-------------------------:|:-------------------------:
+
+** By observing Found that cleanText column of Sports category much less stop words contains compare with text column. So check others category for punctions on cleanText feature. **
+
+<img src="https://drive.google.com/uc?export=view&id=1WUPnufPCLKTMx3aGQnoG-3lJxo8_4czH" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=14PcREQ-489PDbz7CROFGXc82dxaPb8Gw" width="700" height="350"/> |
+:-------------------------:|:-------------------------:
+<img src="https://drive.google.com/uc?export=view&id=1bUdoaRLz-loB5vuKrWq_CtPYeMFb1mHW" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1wL4CQ8etW7BIkHxIYQT2Bfd5EJHAVvT6" width="700" height="350"/> | 
+
+
+<img src="https://drive.google.com/uc?export=view&id=186pA_mhY7z3N0JjHCD4I0MCI6TvpKFh_" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=10qA28xX_Ea9XvPZdJypVYmiFzLHTwjyg" width="700" height="350"/> | 
+:-------------------------:|:-------------------------:
