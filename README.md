@@ -147,3 +147,7 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 #### Glove Single LSTM
 <img src="https://drive.google.com/uc?export=view&id=1laykz7ZLvPwB5vy3wt-g16jmcHNPBeWQ" alt="load again" width="700" height="350"/> | <img src="https://drive.google.com/uc?export=view&id=17oSgrPnOTttdxlVZY1sVD5Rr9jUMQSbg" alt="load again" width="700" height="350"/> 
 :-------------------------:|:-------------------------:
+
+
+### Model Comparision 
+ **Bert Model Perform very well but LSTM Architecture not perform well** 
