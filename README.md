@@ -48,7 +48,7 @@
 
 
 
-#### Number of character in each classes : 
+#### Average word length in text in each classes : 
 
 <img src="https://drive.google.com/uc?export=view&id=1U802FZoTb4Ak1UgiNIXflFEfkqbFlgqE" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1e2j_pEfUPbioyKeE56Ml9t3bRuHD0l36" width="700" height="350"/> |
 :-------------------------:|:-------------------------:
@@ -66,6 +66,20 @@
 <img src="https://drive.google.com/uc?export=view&id=120GJnUV6BkELzYBeU62Jgg9ecL0XqM2z" width="700" height="350"/>
 
 **Found punction in text column but didn't found any punction in cleanText column**
+
+
+#### Common Words in each classes: 
+<img src="https://drive.google.com/uc?export=view&id=1FlwiUzcIIqUbypJ2ROCu_bWIiCLXlTZG" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1lImrxqfmLLVOmbzfzBjpPnAxTyUMWZWR" width="700" height="350"/> |
+:-------------------------:|:-------------------------:
+
+<img src="https://drive.google.com/uc?export=view&id=1cu8ft1Z-FhQqb7NhRKeGkXjAIrggCfXW" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1c_QcXoW2KvME1TEXYubaeQ_KNGXlUIIh" width="700" height="350"/> |
+
+<img src="https://drive.google.com/uc?export=view&id=1kDCnN9kNgAAMVUk6wSHQwUU-nHt4VQNx" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1eYUQhHLpa-qEQPidtwgBFteIOA7j96gI" width="700" height="350"/> | 
+:-------------------------:|:-------------------------:
+
+<img src="https://drive.google.com/uc?export=view&id=1i7HLEGqTYFI53eAOn6ykjgdpkHH1qcKW" width="700" height="350"/> |  | 
+
+
 
 
 
