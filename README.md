@@ -11,9 +11,12 @@
 - technology
 
 ### Solution Notebooks: 
+- [EDA & Data Cleaning](https://colab.research.google.com/drive/1jIrsJulLduJgHWqBf2XjneG9o3NhEjrS?usp=sharing)
+- [Bert Training Code](https://colab.research.google.com/drive/17tQ9DQvFB8sTXfHQfmD_ivf1TTovdIXl?usp=sharing)
+- [Glove Single LSTM Training Code](https://colab.research.google.com/drive/1mv24jJccO4RKwel6EsOOsFusM-AV8r_-?usp=sharing)
 - [Evaluation of Bert](https://colab.research.google.com/drive/1nmjIQcgrg09XI8_QxXCG6SGVsF8IoMTv?usp=sharing)
 - [Evaluation of Glove Single LSTM](https://colab.research.google.com/drive/1darPESwq1pQ8SL_HwlpDMfqHZjlMc82Q?usp=sharing)
-- [Bert Training Code](https://colab.research.google.com/drive/17tQ9DQvFB8sTXfHQfmD_ivf1TTovdIXl?usp=sharing)
+
 
 ### Trained Model Weight Files
 - [Bert Model](https://drive.google.com/file/d/1-5Y29UkrhBKVT1ICM0GFqBk_bTwxjDGD/view?usp=sharing)
