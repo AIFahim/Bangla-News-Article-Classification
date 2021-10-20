@@ -25,11 +25,11 @@
 ### EDA of Dataset
 #### Number of words in each classes : 
 
-<img src="https://drive.google.com/uc?export=view&id=1YGqUJQOd_4t1V0DYiYSkqL5-5yGgrnWb" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1YGqUJQOd_4t1V0DYiYSkqL5-5yGgrnWb" width="700" height="350"/> |
+<img src="https://drive.google.com/uc?export=view&id=1sTrp48nsphSGo3ujjFJexeQJHSwA_sJX" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1YVP5v0XyqU85LkSgqR_rZNKBRql9JIdb" width="700" height="350"/> |
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=1YGqUJQOd_4t1V0DYiYSkqL5-5yGgrnWb" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1YGqUJQOd_4t1V0DYiYSkqL5-5yGgrnWb" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=1eSZv2MhBVHPQkGiseEgOPiqHy2JDHwlW" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1x2k5vMLv63q0Wbos7eFGsw-xyiZF4N5X" width="700" height="350"/> | 
 
 
-<img src="https://drive.google.com/uc?export=view&id=1YGqUJQOd_4t1V0DYiYSkqL5-5yGgrnWb" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1YGqUJQOd_4t1V0DYiYSkqL5-5yGgrnWb" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=11RP1uhd_2EHIDAoGg_WiREQIGRfl44YA" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1i-i5-1H_yiP2wZuQV3okcESsQT5ij_aY" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=1YGqUJQOd_4t1V0DYiYSkqL5-5yGgrnWb" width="700" height="350"/> | | 
+<img src="https://drive.google.com/uc?export=view&id=1VvKm_jwovJdzhBJnsHDntSHJ6E6N0JMp" width="700" height="350"/> | | 
