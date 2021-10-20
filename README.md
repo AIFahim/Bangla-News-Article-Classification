@@ -26,7 +26,7 @@
 - **Developement Envioronment :** Google Colab
 - **Python Version :** 3.7
 - **Framework and Packages :** Tensorflow 2.1.0 ,keras, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Ploty
-- **Runtim Type:** Colab TPU, Colab GPU
+- **Runtime Type:** Colab TPU, Colab GPU
 
 ### Dataset: 
 - A publicly available dataset [BanglaMCT7: Bangla Multi-Class Text Dataset 7 Tags](https://www.kaggle.com/gakowsher/banglamct7-bangla-multiclass-text-dataset-7-tags) which contains news articles of 7 different classes.      
