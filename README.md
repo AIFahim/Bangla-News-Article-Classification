@@ -62,33 +62,33 @@
 
 #### Average word length in text in each classes : 
 
-<img src="https://drive.google.com/uc?export=view&id=1U802FZoTb4Ak1UgiNIXflFEfkqbFlgqE" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1e2j_pEfUPbioyKeE56Ml9t3bRuHD0l36" width="700" height="350"/> |
+<img src="https://drive.google.com/uc?export=view&id=1U802FZoTb4Ak1UgiNIXflFEfkqbFlgqE" alt="load again" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1e2j_pEfUPbioyKeE56Ml9t3bRuHD0l36" alt="load again" width="700" height="350"/> |
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=1u5z0S1LzeC4KOEEX2SSK8BLvdkrfdIwY" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1T7GHoURdz9tt5ODBjw0KOrbRHYNB19Nv" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=1u5z0S1LzeC4KOEEX2SSK8BLvdkrfdIwY" alt="load again" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1T7GHoURdz9tt5ODBjw0KOrbRHYNB19Nv" alt="load again" width="700" height="350"/> | 
 
 
-<img src="https://drive.google.com/uc?export=view&id=1OXXVKTHddxmhTTkQS3YDZ5uRXav5YPs8" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1n2vhcZeYVqwNIW6CgNEpVB8u-T3zYW0M" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=1OXXVKTHddxmhTTkQS3YDZ5uRXav5YPs8" alt="load again" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1n2vhcZeYVqwNIW6CgNEpVB8u-T3zYW0M" alt="load again" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=11ufrSKxgL5NKhWQfUS-m-7eviBUGSp_5" width="700" height="350"/> | | 
+<img src="https://drive.google.com/uc?export=view&id=11ufrSKxgL5NKhWQfUS-m-7eviBUGSp_5" alt="load again" width="700" height="350"/> | | 
 
 
 
 
 #### Analyze punction : 
-<img src="https://drive.google.com/uc?export=view&id=120GJnUV6BkELzYBeU62Jgg9ecL0XqM2z" width="700" height="350"/>
+<img src="https://drive.google.com/uc?export=view&id=120GJnUV6BkELzYBeU62Jgg9ecL0XqM2z" alt="load again" width="700" height="350"/>
 
 **Found punction in text column but didn't found any punction in cleanText column**
 
 
 #### Common Words in each classes: 
-<img src="https://drive.google.com/uc?export=view&id=1FlwiUzcIIqUbypJ2ROCu_bWIiCLXlTZG" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1lImrxqfmLLVOmbzfzBjpPnAxTyUMWZWR" width="700" height="350"/> |
+<img src="https://drive.google.com/uc?export=view&id=1FlwiUzcIIqUbypJ2ROCu_bWIiCLXlTZG" alt="load again" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1lImrxqfmLLVOmbzfzBjpPnAxTyUMWZWR" alt="load again" width="700" height="350"/> |
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=1cu8ft1Z-FhQqb7NhRKeGkXjAIrggCfXW" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1c_QcXoW2KvME1TEXYubaeQ_KNGXlUIIh" width="700" height="350"/> |
+<img src="https://drive.google.com/uc?export=view&id=1cu8ft1Z-FhQqb7NhRKeGkXjAIrggCfXW" alt="load again" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1c_QcXoW2KvME1TEXYubaeQ_KNGXlUIIh" alt="load again" width="700" height="350"/> |
 
 
-<img src="https://drive.google.com/uc?export=view&id=1kDCnN9kNgAAMVUk6wSHQwUU-nHt4VQNx" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1eYUQhHLpa-qEQPidtwgBFteIOA7j96gI" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=1kDCnN9kNgAAMVUk6wSHQwUU-nHt4VQNx" alt="load again" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1eYUQhHLpa-qEQPidtwgBFteIOA7j96gI" alt="load again" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=1i7HLEGqTYFI53eAOn6ykjgdpkHH1qcKW" width="700" height="350"/> | | 
+<img src="https://drive.google.com/uc?export=view&id=1i7HLEGqTYFI53eAOn6ykjgdpkHH1qcKW" alt="load again" width="700" height="350"/> | | 
 
 
 
@@ -96,21 +96,21 @@
 
 #### Common stop word in sport category (Based on text & clenText) : 
 
-<img src="https://drive.google.com/uc?export=view&id=1EFFj020iRKhh8maLPMV76DURnBnVfKFE" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1_Guj651hAhXkCpU9i1mhdnjf10mcgAKz" width="700" height="350"/> |
+<img src="https://drive.google.com/uc?export=view&id=1EFFj020iRKhh8maLPMV76DURnBnVfKFE" alt="load again" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1_Guj651hAhXkCpU9i1mhdnjf10mcgAKz" alt="load again" width="700" height="350"/> |
 :-------------------------:|:-------------------------:
 
 ** By observing Found that cleanText column of Sports category much less stop words contains compare with text column. So check others category for punctions on cleanText feature. **
 
-<img src="https://drive.google.com/uc?export=view&id=1WUPnufPCLKTMx3aGQnoG-3lJxo8_4czH" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=14PcREQ-489PDbz7CROFGXc82dxaPb8Gw" width="700" height="350"/> |
+<img src="https://drive.google.com/uc?export=view&id=1WUPnufPCLKTMx3aGQnoG-3lJxo8_4czH" alt="load again" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=14PcREQ-489PDbz7CROFGXc82dxaPb8Gw" alt="load again" width="700" height="350"/> |
 :-------------------------:|:-------------------------:
-<img src="https://drive.google.com/uc?export=view&id=1bUdoaRLz-loB5vuKrWq_CtPYeMFb1mHW" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1wL4CQ8etW7BIkHxIYQT2Bfd5EJHAVvT6" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=1bUdoaRLz-loB5vuKrWq_CtPYeMFb1mHW" alt="load again" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1wL4CQ8etW7BIkHxIYQT2Bfd5EJHAVvT6" alt="load again" width="700" height="350"/> | 
 
 
-<img src="https://drive.google.com/uc?export=view&id=186pA_mhY7z3N0JjHCD4I0MCI6TvpKFh_" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=10qA28xX_Ea9XvPZdJypVYmiFzLHTwjyg" width="700" height="350"/> | 
+<img src="https://drive.google.com/uc?export=view&id=186pA_mhY7z3N0JjHCD4I0MCI6TvpKFh_" alt="load again" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=10qA28xX_Ea9XvPZdJypVYmiFzLHTwjyg" alt="load again" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
 
 #### Bigram Analysis: 
-<img src="https://drive.google.com/uc?export=view&id=1StcYQYUbJ60MJSGrVqQ239vmQ1Ho9q9S" width="700" height="350"/> 
+<img src="https://drive.google.com/uc?export=view&id=1StcYQYUbJ60MJSGrVqQ239vmQ1Ho9q9S" alt="load again" width="700" height="350"/> 
 
 
 ### Cleaning of Dataset
@@ -122,7 +122,7 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 - Tokennizer Bangla Bert Tokenizer `bnbert_tokenizer = AutoTokenizer.from_pretrained("sagorsarker/bangla-bert-base")`
 
 ##### Model Summary: 
-<img src="https://drive.google.com/uc?export=view&id=1aKtMooWqJh80aWaAGYIeLGJVjexwLEoq" width="700" height="350"/> 
+<img src="https://drive.google.com/uc?export=view&id=1aKtMooWqJh80aWaAGYIeLGJVjexwLEoq" alt="load again" width="700" height="350"/> 
 <hr>
 
 ##### Model 2:
@@ -130,13 +130,13 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 - Use Glove pretrained corpus model to represent words
 
 ##### Model Summary: 
-<img src="https://drive.google.com/uc?export=view&id=1tDswvoc9S-Ud4A5l3Rzmr4NMmelhxXf3" width="700" height="350"/> 
+<img src="https://drive.google.com/uc?export=view&id=1tDswvoc9S-Ud4A5l3Rzmr4NMmelhxXf3" alt="load again" width="700" height="350"/> 
 
 ### Model Evaluation
 #### Bert
-<img src="https://drive.google.com/uc?export=view&id=1OEuhSCYBq5QbbGKNgQcQdFd_3eh-NEPN" width="700" height="350"/> | <img src="https://drive.google.com/uc?export=view&id=YqjXHwdSDBGjXcQqx28SOH" width="700" height="350"/> 
+<img src="https://drive.google.com/uc?export=view&id=1OEuhSCYBq5QbbGKNgQcQdFd_3eh-NEPN" alt="load again" width="700" height="350"/> | <img src="https://drive.google.com/uc?export=view&id=YqjXHwdSDBGjXcQqx28SOH" alt="load again" width="700" height="350"/> 
 :-------------------------:|:-------------------------:
 
 #### Glove Single LSTM
-<img src="https://drive.google.com/uc?export=view&id=1laykz7ZLvPwB5vy3wt-g16jmcHNPBeWQ" width="700" height="350"/> | <img src="https://drive.google.com/uc?export=view&id=17oSgrPnOTttdxlVZY1sVD5Rr9jUMQSbg" width="700" height="350"/> 
+<img src="https://drive.google.com/uc?export=view&id=1laykz7ZLvPwB5vy3wt-g16jmcHNPBeWQ" alt="load again" width="700" height="350"/> | <img src="https://drive.google.com/uc?export=view&id=17oSgrPnOTttdxlVZY1sVD5Rr9jUMQSbg" alt="load again" width="700" height="350"/> 
 :-------------------------:|:-------------------------:
