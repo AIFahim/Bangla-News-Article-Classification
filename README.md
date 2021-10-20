@@ -11,11 +11,12 @@
 - technology
 
 ### Solution Notebooks: 
-
+- [Evaluation of Bert](https://colab.research.google.com/drive/1nmjIQcgrg09XI8_QxXCG6SGVsF8IoMTv?usp=sharing)
+- [Bert Training Code](https://colab.research.google.com/drive/17tQ9DQvFB8sTXfHQfmD_ivf1TTovdIXl?usp=sharing)
 
 ### Trained Model Weight Files
-- Bert Model : [link]()
-- Glove Single LSTM : [link]()
+- [Bert Model](https://drive.google.com/file/d/1-5Y29UkrhBKVT1ICM0GFqBk_bTwxjDGD/view?usp=sharing)
+- [Glove Single LSTM](https://drive.google.com/file/d/1-5Y29UkrhBKVT1ICM0GFqBk_bTwxjDGD/view?usp=sharing)
 
 ### Resources Used
 - **Developement Envioronment :** Google Colab
