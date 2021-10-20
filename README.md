@@ -118,3 +118,11 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 
 ##### Model Summary: 
 <img src="https://drive.google.com/uc?export=view&id=1aKtMooWqJh80aWaAGYIeLGJVjexwLEoq" width="700" height="350"/> 
+<hr>
+
+##### Model 2:
+- One LSTM Layer with Embedding Layer 
+- Tokennizer Bangla Bert Tokenizer `bnbert_tokenizer = AutoTokenizer.from_pretrained("sagorsarker/bangla-bert-base")`
+
+##### Model Summary: 
+<img src="https://drive.google.com/uc?export=view&id=1aKtMooWqJh80aWaAGYIeLGJVjexwLEoq" width="700" height="350"/> 
