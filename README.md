@@ -15,7 +15,7 @@
 
 ### Trained Model Weight Files
 - Bert Model : [link]()
-- Glove-LSTM : [link]()
+- Glove Single LSTM : [link]()
 
 ### Resources Used
 - **Developement Envioronment :** Google Colab
