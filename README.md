@@ -10,6 +10,13 @@
 - state
 - technology
 
+### Solution Notebooks: 
+
+
+### Trained Model Weight Files
+- Bert Model : [link]()
+- Glove-LSTM : [link]()
+
 ### Resources Used
 - **Developement Envioronment :** Google Colab
 - **Python Version :** 3.7
