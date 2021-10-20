@@ -60,6 +60,15 @@
 <img src="https://drive.google.com/uc?export=view&id=11ufrSKxgL5NKhWQfUS-m-7eviBUGSp_5" width="700" height="350"/> | | 
 
 
+
+
+#### Analyze punction : 
+<img src="https://drive.google.com/uc?export=view&id=120GJnUV6BkELzYBeU62Jgg9ecL0XqM2z" width="700" height="350"/>
+
+**Found punction in text column but didn't found any punction in cleanText column**
+
+
+
 #### Common stop word in sport category (Based on text & clenText) : 
 
 <img src="https://drive.google.com/uc?export=view&id=1EFFj020iRKhh8maLPMV76DURnBnVfKFE" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1_Guj651hAhXkCpU9i1mhdnjf10mcgAKz" width="700" height="350"/> |
@@ -74,10 +83,5 @@
 
 <img src="https://drive.google.com/uc?export=view&id=186pA_mhY7z3N0JjHCD4I0MCI6TvpKFh_" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=10qA28xX_Ea9XvPZdJypVYmiFzLHTwjyg" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
-
-#### Analyze punction : 
-<img src="https://drive.google.com/uc?export=view&id=120GJnUV6BkELzYBeU62Jgg9ecL0XqM2z" width="700" height="350"/>
-
-**Found punction in text column but didn't found any punction in cleanText column**
 
 
