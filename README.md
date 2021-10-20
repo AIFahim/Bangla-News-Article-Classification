@@ -58,3 +58,8 @@
 <img src="https://drive.google.com/uc?export=view&id=1OXXVKTHddxmhTTkQS3YDZ5uRXav5YPs8" width="700" height="350"/> |   <img src="https://drive.google.com/uc?export=view&id=1n2vhcZeYVqwNIW6CgNEpVB8u-T3zYW0M" width="700" height="350"/> | 
 :-------------------------:|:-------------------------:
 <img src="https://drive.google.com/uc?export=view&id=11ufrSKxgL5NKhWQfUS-m-7eviBUGSp_5" width="700" height="350"/> | | 
+
+
+#### Common stop word in sport category (Based on text & clenText) : 
+
+<img src="https://drive.google.com/uc?export=view&id=1U802FZoTb4Ak1UgiNIXflFEfkqbFlgqE" width="700" height="350"/>  |  <img src="https://drive.google.com/uc?export=view&id=1e2j_pEfUPbioyKeE56Ml9t3bRuHD0l36" width="700" height="350"/> |
