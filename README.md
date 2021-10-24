@@ -143,7 +143,7 @@ As analysis found some stop words in cleanText columns. Removed those stop words
 
 ### Model Evaluation
 #### Bert
-<img src="https://drive.google.com/uc?export=view&id=1OEuhSCYBq5QbbGKNgQcQdFd_3eh-NEPN" alt="load again" width="700" height="350"/> | <img src="https://drive.google.com/uc?export=view&id=YqjXHwdSDBGjXcQqx28SOH" alt="load again" width="700" height="350"/> 
+<img src="https://drive.google.com/uc?export=view&id=1OEuhSCYBq5QbbGKNgQcQdFd_3eh-NEPN" alt="load again" width="700" height="350"/> | <img src="https://drive.google.com/uc?export=view&id=1yKRdnWmxd7YqjXHwdSDBGjXcQqx28SOH" alt="load again" width="700" height="350"/> 
 :-------------------------:|:-------------------------:
 
 #### Glove Single LSTM
