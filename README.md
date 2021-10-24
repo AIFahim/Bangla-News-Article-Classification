@@ -20,7 +20,7 @@
 - [Evaluation of Glove Model Multiple LSTM CNN](https://colab.research.google.com/drive/13c3noRsExOFHzv1DrtBxMhoqk6AR4yx9?usp=sharing)
 
 ### Trained Model Weight Files
-- [Bert Model](https://drive.google.com/file/d/1-5Y29UkrhBKVT1ICM0GFqBk_bTwxjDGD/view?usp=sharing)
+- [Bert Model](https://drive.google.com/file/d/1MoGSXyl411A881c_9FcEA6r8v-MGcuQs/view?usp=sharing)
 - [Glove Single LSTM](https://drive.google.com/file/d/1-5Y29UkrhBKVT1ICM0GFqBk_bTwxjDGD/view?usp=sharing)
 - [Glove Model Multiple LSTM CNN](https://drive.google.com/file/d/1Eglkzg5na5i6C7Derq1tz-lEcuebNLPe/view?usp=sharing)
 
